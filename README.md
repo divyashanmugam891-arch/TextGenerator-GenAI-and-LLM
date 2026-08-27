@@ -175,8 +175,10 @@ In the future, this project can be improved by adding:
 - 🧹 Clear or reset option
 - 💾 Download option for generated text
 - 📝 Prompt text-generation
-- ration tasks
+- 🔤 Support for additional text-generation tasks
 
-**👩‍💻 tasks**
-AI Text GeneBuilt
+**👩‍💻 Project**
+
+AI Text Generator
+
 Built using Python + Streamlit + Hugging Face Transformers.
